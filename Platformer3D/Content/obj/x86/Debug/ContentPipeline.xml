@@ -1,0 +1,660 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Name>Models\p1_wedge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\p1_wedge.xnb</Output>
+      <Time>2010-05-19T20:20:13.734375+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\p1_wedge_0.xml</Key>
+        <Value>2010-05-22T19:48:17.4375+03:00</Value>
+      </Dependency>
+      <Request>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\bot.fbx</Source>
+      <Name>Models\bot</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\bot.xnb</Output>
+      <Time>2010-05-20T15:16:06+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\bot_0.xml</Key>
+        <Value>2010-05-22T19:48:19.46875+03:00</Value>
+      </Dependency>
+      <Request>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\guideBot_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\tank.fbx</Source>
+      <Name>Models\tank</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\tank.xnb</Output>
+      <Time>2010-05-20T12:05:44+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\tank_0.xml</Key>
+        <Value>2010-05-22T19:48:25.890625+03:00</Value>
+      </Dependency>
+      <Request>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\engine_diff_tex_0.xnb</Request>
+      <Request>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\turret_alt_diff_tex1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\background.fbx</Source>
+      <Name>Models\background</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\background.xnb</Output>
+      <Time>2010-05-21T10:45:17+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\background_0.xml</Key>
+        <Value>2010-05-22T19:48:35.859375+03:00</Value>
+      </Dependency>
+      <Request>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\plane_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\bullet1.fbx</Source>
+      <Name>Models\bullet1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\bullet1.xnb</Output>
+      <Time>2010-05-21T10:58:40+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\bullet1_0.xml</Key>
+        <Value>2010-05-22T19:48:37.078125+03:00</Value>
+      </Dependency>
+      <Request>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\bullet_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\enemy1.fbx</Source>
+      <Name>Models\enemy1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\enemy1.xnb</Output>
+      <Time>2010-05-21T13:19:28+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\enemy1_0.xml</Key>
+        <Value>2010-05-22T19:48:38.3125+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\platform.fbx</Source>
+      <Name>Models\platform</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\platform.xnb</Output>
+      <Time>2010-05-21T14:44:23+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\platform_0.xml</Key>
+        <Value>2010-05-22T19:48:38.5625+03:00</Value>
+      </Dependency>
+      <Request>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\platform_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\spark1.fbx</Source>
+      <Name>Models\spark1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\spark1.xnb</Output>
+      <Time>2010-05-21T11:06:06+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\spark1_0.xml</Key>
+        <Value>2010-05-22T19:48:38.84375+03:00</Value>
+      </Dependency>
+      <Request>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\spark_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Fonts\detailsFont.spritefont</Source>
+      <Name>Fonts\detailsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\detailsFont.xnb</Output>
+      <Time>2010-05-19T21:00:27.109375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\diagnosticFont.spritefont</Source>
+      <Name>Fonts\diagnosticFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\diagnosticFont.xnb</Output>
+      <Time>2010-05-19T21:00:27.125+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\frameRateCounterFont.spritefont</Source>
+      <Name>Fonts\frameRateCounterFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\frameRateCounterFont.xnb</Output>
+      <Time>2010-05-19T21:00:27.15625+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont.spritefont</Source>
+      <Name>Fonts\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\gamefont.xnb</Output>
+      <Time>2010-05-19T21:00:27.171875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menufont.spritefont</Source>
+      <Name>Fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\menufont.xnb</Output>
+      <Time>2010-05-19T21:00:27.1875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\blip.wav</Source>
+      <Name>sounds\blip</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\blip.xnb</Output>
+      <Time>2010-05-20T21:42:56.734375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\explosionShort.wav</Source>
+      <Name>sounds\explosionShort</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\explosionShort.xnb</Output>
+      <Time>2010-05-20T21:39:58.4375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\footStep.wav</Source>
+      <Name>sounds\footStep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\footStep.xnb</Output>
+      <Time>2010-05-21T01:35:24.703125+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\hitDamage.wav</Source>
+      <Name>sounds\hitDamage</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\hitDamage.xnb</Output>
+      <Time>2010-05-20T21:41:22.078125+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\jump.wav</Source>
+      <Name>sounds\jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\jump.xnb</Output>
+      <Time>2010-05-20T21:41:50.546875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\pickup.wav</Source>
+      <Name>sounds\pickup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\pickup.xnb</Output>
+      <Time>2010-05-20T21:37:21.75+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\powerup.wav</Source>
+      <Name>sounds\powerup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\powerup.xnb</Output>
+      <Time>2010-05-20T21:40:44.765625+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\rocket.wav</Source>
+      <Name>sounds\rocket</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\rocket.xnb</Output>
+      <Time>2010-05-20T21:39:32.5+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\shootBullet.wav</Source>
+      <Name>sounds\shootBullet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\shootBullet.xnb</Output>
+      <Time>2010-05-20T21:36:16.171875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\shootLaser.wav</Source>
+      <Name>sounds\shootLaser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\shootLaser.xnb</Output>
+      <Time>2010-05-20T21:35:41.8125+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\snap.wav</Source>
+      <Name>sounds\snap</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\snap.xnb</Output>
+      <Time>2010-05-20T21:43:47.078125+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\swap.wav</Source>
+      <Name>sounds\swap</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\swap.xnb</Output>
+      <Time>2010-05-20T21:43:30.734375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\enemyExplode.wav</Source>
+      <Name>sounds\enemyExplode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\enemyExplode.xnb</Output>
+      <Time>2010-05-21T12:01:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\spawn.wav</Source>
+      <Name>sounds\spawn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\spawn.xnb</Output>
+      <Time>2010-05-21T12:00:13+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\music.mp3</Source>
+      <Name>sounds\music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music.xnb</Output>
+      <Extra>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music.wma</Extra>
+      <Time>2008-11-20T00:15:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\music8bit.mp3</Source>
+      <Name>sounds\music8bit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music8bit.xnb</Output>
+      <Extra>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music8bit.wma</Extra>
+      <Time>2010-05-20T23:32:13.96875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\music2.mp3</Source>
+      <Name>sounds\music2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music2.xnb</Output>
+      <Extra>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music2.wma</Extra>
+      <Time>2010-05-22T23:10:16.625+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\white.png</Source>
+      <Name>Textures\white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Textures\white.xnb</Output>
+      <Time>2010-05-21T13:34:21+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\p1_wedge_0.xml</Output>
+      <Time>2010-05-19T20:20:13.734375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\wedge_p1_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Output>
+      <Time>2010-05-19T20:20:38.96875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bot.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\bot_0.xml</Output>
+      <Time>2010-05-20T15:16:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\guideBot.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\guideBot_0.xnb</Output>
+      <Time>2010-05-20T01:10:02.046875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tank.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\tank_0.xml</Output>
+      <Time>2010-05-20T12:05:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\engine_diff_tex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\engine_diff_tex_0.xnb</Output>
+      <Time>2010-05-20T12:06:29+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\turret_alt_diff_tex1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\turret_alt_diff_tex1_0.xnb</Output>
+      <Time>2010-05-20T12:06:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\background.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\background_0.xml</Output>
+      <Time>2010-05-21T10:45:17+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\plane.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\plane_0.xnb</Output>
+      <Time>2010-05-21T10:40:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bullet1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\bullet1_0.xml</Output>
+      <Time>2010-05-21T10:58:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bullet.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\bullet_0.xnb</Output>
+      <Time>2010-05-23T00:19:39.875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\enemy1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\enemy1_0.xml</Output>
+      <Time>2010-05-21T13:19:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\platform.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\platform_0.xml</Output>
+      <Time>2010-05-21T14:44:23+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\platform.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\platform_0.xnb</Output>
+      <Time>2010-05-23T00:19:14.90625+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spark1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\spark1_0.xml</Output>
+      <Time>2010-05-21T11:06:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spark.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\spark_0.xnb</Output>
+      <Time>2010-05-21T11:05:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>shaders\test.fx</Source>
+      <Name>shaders\test</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\shaders\test.xnb</Output>
+      <Time>2010-05-23T00:37:27.203125+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\jetpack.wav</Source>
+      <Name>sounds\jetpack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\jetpack.xnb</Output>
+      <Time>2010-05-23T01:22:45.796875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\jetpack_start.wav</Source>
+      <Name>sounds\jetpack_start</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\jetpack_start.xnb</Output>
+      <Time>2010-05-23T01:12:56.5625+03:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\jetpack_stop.wav</Source>
+      <Name>sounds\jetpack_stop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\jetpack_stop.xnb</Output>
+      <Time>2010-05-23T01:17:10.34375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\smoke1.fbx</Source>
+      <Name>Models\smoke1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\smoke1.xnb</Output>
+      <Time>2010-05-23T02:47:55.328125+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\smoke1_0.xml</Key>
+        <Value>2010-05-23T02:47:59.390625+03:00</Value>
+      </Dependency>
+      <Request>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\smoke_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\smoke1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\smoke1_0.xml</Output>
+      <Time>2010-05-23T02:47:55.328125+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\smoke.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\smoke_0.xnb</Output>
+      <Time>2010-05-23T02:41:15.515625+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\space_bg.png</Source>
+      <Name>Textures\space_bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Textures\space_bg.xnb</Output>
+      <Time>2010-05-23T03:23:17.96875+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\blood.fbx</Source>
+      <Name>Models\blood</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\blood.xnb</Output>
+      <Time>2010-05-24T22:00:51.859375+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\blood_0.xml</Key>
+        <Value>2010-05-24T22:03:43.265625+03:00</Value>
+      </Dependency>
+      <Request>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\blood_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\blood.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\blood_0.xml</Output>
+      <Time>2010-05-24T22:00:51.859375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\blood.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\blood_0.xnb</Output>
+      <Time>2010-05-24T22:00:22.203125+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\Content\</RootDirectory>
+      <LoggerRootDirectory>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-04-21T22:54:35.953125+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

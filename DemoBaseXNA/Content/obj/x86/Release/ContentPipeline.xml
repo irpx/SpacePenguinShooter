@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>F:\xna\GameProject_proto\DemoBaseXNA\Content\</RootDirectory>
+      <LoggerRootDirectory>F:\xna\GameProject_proto\DemoBaseXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\xna\GameProject_proto\DemoBaseXNA\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-04-21T22:54:35.953125+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

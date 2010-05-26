@@ -1,0 +1,54 @@
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\farseer\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll.config
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\farseer\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\farseer\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.pdb
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\farseer\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.dll
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\farseer\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.pdb
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\farseer\DemoBaseXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\farseer\DemoBaseXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\farseer\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.dll
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\farseer\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.pdb
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\GameProject_proto\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll.config
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\GameProject_proto\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\GameProject_proto\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.pdb
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\GameProject_proto\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.dll
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\GameProject_proto\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.pdb
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\GameProject_proto\DemoBaseXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\GameProject_proto\DemoBaseXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\GameProject_proto\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.dll
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\GameProject_proto\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.pdb
+E:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll.config
+E:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll
+E:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.pdb
+E:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.dll
+E:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.pdb
+E:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.dll
+E:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.pdb
+F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll.config
+F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll
+F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.pdb
+F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.dll
+F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.pdb
+F:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.dll
+F:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.pdb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll.config
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.pdb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.dll
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.pdb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.dll
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.pdb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll.config
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.dll
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\bin\x86\Debug\DemoBaseXNA.pdb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.dll
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\bin\x86\Debug\FarseerPhysics.pdb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.dll
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\obj\x86\Debug\DemoBaseXNA.pdb

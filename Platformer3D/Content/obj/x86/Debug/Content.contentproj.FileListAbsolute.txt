@@ -1,0 +1,2 @@
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\Content\obj\x86\Debug\ResolveAssemblyReference.cache

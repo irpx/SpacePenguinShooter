@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformer3D", "Platformer3D\Platformer3D.csproj", "{531A07EC-6C02-47FF-8D22-07CD560C3BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarseerPhysicsXNA", "Farseer Physics 2.1.3 XNA\FarseerPhysicsXNA.csproj", "{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBaseXNA", "DemoBaseXNA\DemoBaseXNA.csproj", "{691B7A20-9CD0-486D-87C4-8BD8001FE8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{531A07EC-6C02-47FF-8D22-07CD560C3BA2}.Debug|x86.ActiveCfg = Debug|x86
+		{531A07EC-6C02-47FF-8D22-07CD560C3BA2}.Debug|x86.Build.0 = Debug|x86
+		{531A07EC-6C02-47FF-8D22-07CD560C3BA2}.Release|x86.ActiveCfg = Release|x86
+		{531A07EC-6C02-47FF-8D22-07CD560C3BA2}.Release|x86.Build.0 = Release|x86
+		{D87F2480-2FF0-412D-9D25-87FD4E39CFDB}.Debug|x86.ActiveCfg = Debug|x86
+		{D87F2480-2FF0-412D-9D25-87FD4E39CFDB}.Release|x86.ActiveCfg = Release|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Debug|x86.ActiveCfg = Debug|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Debug|x86.Build.0 = Debug|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Release|x86.ActiveCfg = Release|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Release|x86.Build.0 = Release|x86
+		{5DB75E98-A054-4091-AB49-F5DB0F17F771}.Debug|x86.ActiveCfg = Debug|x86
+		{5DB75E98-A054-4091-AB49-F5DB0F17F771}.Release|x86.ActiveCfg = Release|x86
+		{691B7A20-9CD0-486D-87C4-8BD8001FE8FA}.Debug|x86.ActiveCfg = Debug|x86
+		{691B7A20-9CD0-486D-87C4-8BD8001FE8FA}.Debug|x86.Build.0 = Debug|x86
+		{691B7A20-9CD0-486D-87C4-8BD8001FE8FA}.Release|x86.ActiveCfg = Release|x86
+		{691B7A20-9CD0-486D-87C4-8BD8001FE8FA}.Release|x86.Build.0 = Release|x86
+		{DE1C7B50-5EB5-475E-8091-102C3ADAD27E}.Debug|x86.ActiveCfg = Debug|x86
+		{DE1C7B50-5EB5-475E-8091-102C3ADAD27E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

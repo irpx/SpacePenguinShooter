@@ -1,0 +1,123 @@
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Platformer3D.exe
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Platformer3D.pdb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\obj\x86\Debug\Platformer3D.exe
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\obj\x86\Debug\Platformer3D.pdb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\p1_wedge.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\FarseerPhysics.dll
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\FarseerPhysics.pdb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\DemoBaseXNA.dll
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\DemoBaseXNA.pdb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\detailsFont.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\diagnosticFont.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\frameRateCounterFont.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\gamefont.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\menufont.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\bot.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\guideBot_0.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\obj\x86\Debug\Platformer3D.exe
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\obj\x86\Debug\Platformer3D.pdb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\bot.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\detailsFont.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\diagnosticFont.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\frameRateCounterFont.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Fonts\menufont.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\guideBot_0.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Platformer3D.exe
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Platformer3D.pdb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\DemoBaseXNA.dll
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\FarseerPhysics.dll
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\FarseerPhysics.pdb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\DemoBaseXNA.pdb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\tank.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\engine_diff_tex_0.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\turret_alt_diff_tex1_0.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.tga
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\guideBot.png
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\turret_alt_diff_tex1.tga
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\engine_diff_tex.tga
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\plane_0.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\background.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\plane.png
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\bullet1.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\tank.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\background.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\bullet1.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\engine_diff_tex_0.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\turret_alt_diff_tex1_0.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\plane_0.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\engine_diff_tex.tga
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\turret_alt_diff_tex1.tga
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\plane.png
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.tga
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\guideBot.png
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\blip.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\explosionShort.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\footStep.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\hitDamage.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\jump.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\pickup.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\powerup.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\rocket.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\shootBullet.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\shootLaser.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\snap.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\swap.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music8bit.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music.wma
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music8bit.wma
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\blip.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\explosionShort.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\footStep.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\hitDamage.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\jump.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\pickup.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\powerup.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\rocket.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\shootBullet.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\shootLaser.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\snap.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\swap.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music8bit.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music.wma
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music8bit.wma
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\bullet_0.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\spark1.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\spark_0.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music2.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music2.wma
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\enemyExplode.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\spawn.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\enemy1.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Textures\white.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\platform.xnb
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\platform_0.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\enemy1.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\platform.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\spark1.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\enemyExplode.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\spawn.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music2.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Textures\white.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\bullet_0.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\platform_0.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\spark_0.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\music2.wma
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\shaders\test.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\jetpack.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\jetpack_start.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\sounds\jetpack_stop.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\smoke1.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\smoke_0.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Textures\space_bg.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\blood.xnb
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\Platformer3D\bin\x86\Debug\Content\Models\blood_0.xnb

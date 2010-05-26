@@ -1,0 +1,9 @@
+F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Release\DemoBaseXNA.dll.config
+F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Release\DemoBaseXNA.dll
+F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Release\DemoBaseXNA.pdb
+F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Release\FarseerPhysics.dll
+F:\xna\GameProject_proto\DemoBaseXNA\bin\x86\Release\FarseerPhysics.pdb
+F:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Release\ResolveAssemblyReference.cache
+F:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Release\DemoBaseXNA.dll
+F:\xna\GameProject_proto\DemoBaseXNA\obj\x86\Release\DemoBaseXNA.pdb

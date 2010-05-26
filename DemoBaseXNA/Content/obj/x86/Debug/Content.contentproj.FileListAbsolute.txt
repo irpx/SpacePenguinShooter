@@ -1,0 +1,6 @@
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\farseer\DemoBaseXNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luokka\Desktop\GamePro XNA Projects\GameProject_proto\DemoBaseXNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\xna\GameProject_proto\DemoBaseXNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\xna\GameProject_proto\DemoBaseXNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lainaaja\My Documents\My Dropbox\xna\tokakoulutusSessio\Platformer3D\DemoBaseXNA\Content\obj\x86\Debug\ResolveAssemblyReference.cache
